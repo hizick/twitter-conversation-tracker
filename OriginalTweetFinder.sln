@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OriginalTweetFinder", "OriginalTweetFinder.csproj", "{512E1B15-AF4B-4991-BF97-229303B1626C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512E1B15-AF4B-4991-BF97-229303B1626C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512E1B15-AF4B-4991-BF97-229303B1626C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512E1B15-AF4B-4991-BF97-229303B1626C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512E1B15-AF4B-4991-BF97-229303B1626C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9CAEAE2-84A0-4A90-B27E-C2EEFCF230E1}
+	EndGlobalSection
+EndGlobal
